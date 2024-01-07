@@ -78,3 +78,5 @@ const SMSReader = () => {
 };
 
 export default SMSReader;
+
+////don't forgot to add READ_SMS permission in AndroidManifest.xml file;
